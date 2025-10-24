@@ -1,3 +1,5 @@
+/*Schrader Rodtriguez Luis Antonio
+clase 2 ejercicio 1*/
 #include <stdio.h>
 #include <math.h>
 
